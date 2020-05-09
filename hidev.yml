@@ -1,0 +1,18 @@
+package:
+    type:           yii2-extension
+    name:           hidev-behat
+    title:          HiDev plugin for Behat
+    headline:       HiDev PHPUnit
+    keywords:       hidev, behat, plugin
+    description:    |
+        [HiDev] is the automation tool mixed with code generator for easier continuous development.
+
+        This plugin enables [Behat] support for HiDev.
+
+        Provides usual Behat operations:
+
+        - generating `behat.yml`
+        - running tests
+
+        [hidev]: https://github.com/hiqdev/hidev
+        [behat]: https://behat.org/
