@@ -36,7 +36,4 @@ return [
             ],
         ],
     ],
-    'aliases' => [
-        '@hidev/behat' => dirname(__DIR__) . '/src',
-    ],
 ];
