@@ -47,6 +47,11 @@
         "hiqdev/hidev-php": "dev-master",
         "hiqdev/hidev-hiqdev": "dev-master"
     },
+    "autoload": {
+        "psr-4": {
+            "hidev\\behat\\": "src"
+        }
+    },
     "extra": {
         "config-plugin": {
             "hidev": "config/hidev.php"
